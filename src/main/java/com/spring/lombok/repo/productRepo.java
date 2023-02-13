@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 import com.spring.lombok.entity.Producttt;
 
 
-
+//hello
 @Repository
 public interface productRepo extends JpaRepository<Producttt, Integer> {
 

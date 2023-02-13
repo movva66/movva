@@ -10,7 +10,7 @@ import lombok.Data;
 @Entity
 @Data
 public class Producttt {
-
+//hiiii
 	@Id
 	@GeneratedValue
 	private Integer id;
